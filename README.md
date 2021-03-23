@@ -4,4 +4,7 @@
     </embed>
 </object>
 
-![CV_Page_1](https://github.com/dmsmiley/Smiley_CV/blob/main/Smiley_CV_Page_1.png raw=true)
+![CV_Page_1](https://github.com/dmsmiley/Smiley_CV/blob/main/Smiley_CV_Page_1.png?raw=true)
+![CV_Page_2](https://github.com/dmsmiley/Smiley_CV/blob/main/Smiley_CV_Page_2.png?raw=true)
+![CV_Page_3](https://github.com/dmsmiley/Smiley_CV/blob/main/Smiley_CV_Page_3.png?raw=true)
+![CV_Page_4](https://github.com/dmsmiley/Smiley_CV/blob/main/Smiley_CV_Page_4.png?raw=true)
