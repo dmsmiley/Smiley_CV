@@ -1,20 +1,32 @@
 # Smiley_CV
 DAVID M. SMILEY, M.T.S., M.DIV.
+
 434 DECIO HALL  •  NOTRE DAME, IN  •  46556  |  812.343.6899
+
 davidmsmiley@gmail.com | https://github.com/dmsmiley
+
 dmsmiley.github.io  | linkedin.com/in/david-m-smiley
  
- E D U C A T I O N
+ 
+EDUCATION
 
-University of Notre Dame (ND)– South Bend, IN             	 	         Fall 2017–Spring 2019 Master of Theological Studies– Biblical Studies (Old Testament/Hebrew Bible)
+University of Notre Dame (ND)– South Bend, IN             	 	         
+Fall 2017–Spring 2019 
+Master of Theological Studies– Biblical Studies (Old Testament/Hebrew Bible)
 GPA: 3.80
-Gordon-Conwell Theological Seminary (GCTS)–South Hamilton, MA Fall 2014–Spring 2017
+
+Gordon-Conwell Theological Seminary (GCTS)–South Hamilton, MA 
+Fall 2014–Spring 2017
 Master of Divinity
 GPA: 3.84
-North Central University (NCU)– Minneapolis, MN         	  	         Fall 2010–Spring 2014
+
+North Central University (NCU)– Minneapolis, MN
+Fall 2010–Spring 2014
 Bachelor of Arts– Biblical Studies (Biblical Languages)
 GPA: 3.64
-A C A D E M I C   P R O F E S S I O N A L   E X P E R I E N C E
+
+
+ACADEMIC PROFESSIONAL EXPERIENCE
 
 Graduate Studies Coordinator, Department of History– ND                             	August 2019–
 Administrative support to the Director of Graduate Studies
